@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: D&D Campaign Wiki!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+What is up gooner and crooners welcome to the player side wiki for all the useless exposition I can manage! 
