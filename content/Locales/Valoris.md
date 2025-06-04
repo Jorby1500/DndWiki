@@ -1,4 +1,4 @@
-**#city**  
+
 **One of the three sister cities: [[Elaris]], [[Valoris]], and [[Auronis]] — named after the daughters of [[Pelor]] and [[Selune]]. They represent Dawn, Midday, and Twilight.**
 
 ---
