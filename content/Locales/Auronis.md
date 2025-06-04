@@ -22,6 +22,6 @@ Auronis is a city of rapid magical evolution, where ambition drives innovation�
     
 - **The Gloamway** – The lower city’s neon-lit maze, where danger and brilliance intertwine. Arcane signs glow above stalls selling illegal magitech, while black-market spellrunners and rogue artificers thrive in its alleys.
     
-- **The Gilded Veil** – A notorious gambling hall and black market hub where high-stakes magical wagers and political espionage unfold. Controlled by the enigmatic [[Nereza Volcaryn]].
+- **The Gilded Veil** – A notorious gambling hall and black market hub where high-stakes magical wagers and political espionage unfold. 
 
-- **The Ironwake ** – A secure arcane research complex where corporations test dangerous magical technologies. Rumored connections tie its origins to [[Malric]] and the first sparks of magic’s return.
+- **The Ironwake ** – A secure arcane research complex where corporations test dangerous magical technologies.
