@@ -8,7 +8,7 @@ Auronis is a city of rapid magical evolution, where ambition drives innovation�
 
 ---
 
-## **Points of Interest 
+## **Points of Interest** 
 - **Skyward Spires** – Floating towers and elite academies push the frontiers of arcane science and high-altitude magical research.
     
 - **Lower Districts** – A tangled sprawl of enchanted streets, magical bazaars, and illusion-shrouded alleys, alive with trade, invention, and barely contained chaos.
@@ -24,4 +24,4 @@ Auronis is a city of rapid magical evolution, where ambition drives innovation�
     
 - **The Gilded Veil** – A notorious gambling hall and black market hub where high-stakes magical wagers and political espionage unfold. 
 
-- **The Ironwake ** – A secure arcane research complex where corporations test dangerous magical technologies.
+- **The Ironwake** – A secure arcane research complex where corporations test dangerous magical technologies.
