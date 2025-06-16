@@ -29,29 +29,4 @@ Caranthir laughed, the sound deep and rumbling, like distant thunder. “And loo
 The shadows lengthened as the sun dipped lower in the sky, casting the clearing in hues of amber and gold. The two figures lingered a moment longer, silent now, each lost in their own memories of the place.
 
 When they turned to leave, the forest seemed to close in behind them, the clearing returning to its timeless vigil, untouched once more.
-__________________________________________________________________________
-
-
-I hadn’t thought of the clearing in years, but as soon as we stepped into it, the memories came rushing back. The same cool air carried the scent of damp moss, the same quiet stream murmured just out of sight. It was as if the place had waited, unchanged, for us to return.
-
-I crouched beside the stone first, running my fingers over its surface. Time had smoothed its edges but couldn’t erase the grooves left by countless rains. It felt warm beneath my hand, almost alive. I turned my head toward Caranthir, who was stepping heavily through the underbrush, his sword clinking faintly against his hip.
-
-“Still here,” I said, half to him and half to myself.
-
-Caranthir laughed, low and rough. “I didn’t expect it to vanish.” He paused near the edge of the clearing, his broad frame casting a long shadow over the stone. “Feels different, though. Smaller.”
-
-“No, it’s the same,” I replied, rising to my feet. I brushed the dirt from my palms, letting my eyes wander to the northern horizon. “It’s us who’ve changed.”
-
-His gaze followed mine, settling on the mountain in the distance. It rose sharp and jagged, its peak curving over the land like the broken arch of a great hall. Beyond it, the hills rolled like the sea, cradling the oxbow lake in their embrace. Even from here, the pale white tree stood out, its twisted branches stark against the dark green of the forest.
-
-“Do you remember?” I asked. “When we met here?”
-
-Caranthir snorted. “I said I was lost.”
-
-I shook my head, a small smile tugging at my lips. “You said you’d climb that mountain to find your way. I told you the lake would guide you better.”
-
-“And you were right, as usual,” he said, though there was a heaviness to his voice now, one that hadn’t been there before. “But one of these days, I’ll leave the path, and you’ll be the one searching.”
-
-“If that day comes,” I said quietly, “I’ll follow you here. Some things are worth finding, Caranthir, no matter how hard the journey.”
-
-The shadows were lengthening by the time we left the clearing, the forest dimming around us. I glanced back as we passed into the trees, my eyes lingering on the stone, the mountain, and the lake. I told myself we’d return again someday—together, if fate allowed.
+_________________________________________________________________________
